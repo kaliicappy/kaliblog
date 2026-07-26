@@ -15,9 +15,9 @@ this blog will be updated as much as i remember to update it, which hopefully, w
 
 i'm sure this page, as well as the early posts, will look different to more recent posts as i learn how to go about html and such, so it will be fun!<br>
 
-<p align="center">
+<p style="text-align: center;">
   
-![under construction](https://blob.gifcities.org/gifcities/6Q3RUN6QT3ZY75WFF6MB36RJQF63VO62.gif)<br>
+![under construction](https://blob.gifcities.org/gifcities/6Q3RUN6QT3ZY75WFF6MB36RJQF63VO62.gif)
 
 </p>
 
