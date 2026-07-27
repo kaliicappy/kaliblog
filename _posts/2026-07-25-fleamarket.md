@@ -64,7 +64,7 @@ after the mall closed, we took the bus home, and we went for ~45 stops before af
 
 fun day.
 
-heres this post's song, Hard To Explain by The Strokes.
+heres this post's song, Mayonaise by The Smashing Pumpkins.
 
 <p style="text-align: center;" markdown="0">
 
