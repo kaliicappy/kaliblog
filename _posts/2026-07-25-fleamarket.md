@@ -7,7 +7,11 @@ description: "icappy goes to the flea market"
 
 # i went to a flea market today
 
+<p style="text-align: center;" markdown="1">
+
 ![flea market blinkie](/assets/images/blinkiesCafe-1T.gif)
+
+</p>
 
 today is a sunday, so that means things close early, and the flea markets are open!
 
@@ -18,23 +22,39 @@ the one we went to today was 'fantastic flea market' under dixie outlet mall, it
 as soon as you enter through the main entrance and go down the stairs, you see a music store selling CDs, vinyl, cassettes, as well as various posters, equipment, and instruments. 
 its all sorted a little weird, but its kind of nice in a way. they've got basic genre organization but also shelves overtop that hold more? im not sure as to why they dont make it a little more in your sightline, but who cares.
 
+<p style="text-align: center;" markdown="1">
+
 ![vinyl vault in fantastic flea market](/assets/images/480778107_1204084911723560_2196064022964178737_n.jpg)
+
+</p>
 
 as you walk around, you'll see a lot of collectibles, clothes, music, furniture, and tricket vendors.<br>
 there was a woman who had pins for sale, and there were a few i liked, but they were 5 dollars a piece which is insane for a few little pieces of metal.. so i didnt end up getting any. she also had these weird knockoff pokemon packs, with what im pretty sure are digimon on the front? im kind of curious now, i wish i had gotten one.
 
+<p style="text-align: center;" markdown="1">
+
 ![pokemon digimon pack](/assets/images/IMG_1077.jpg)
+
+</p>
 
 but the main event of the flea market is of course, this beautiful man we call..
 
+<p style="text-align: center;" markdown="1">
+
 ![the wizard blinkie](/assets/images/blinkiesCafe-yv.gif)
+
+</p>
 
 the wizard is a man named [Vladimir Martyniuk](https://magicianvlad.com/), he's been on canadas got talent, performed at wonderland, the danforth, banquet halls, theatres, and he's been doing this for ***40 years***!
 
 sure, having magic done on a screen is cool and all, but having it done right infront of your face and having no idea how its done is completely something else.
 he'll make things levetate, bend reality, read minds, its all insane to see, especially for free.
 
+<p style="text-align: center;" markdown="1">
+
 ![the wizard](/assets/images/thewizard.jpg)
+
+</p>
 
 after people started closing up in the flea market, we went upstairs to the rest of dixie outlet mall. its not really a mall you'd expect to have a lot of people, it kind of seems like it would be dead, but it surprised me at just how much people there were and the kinds of stores there.
 
