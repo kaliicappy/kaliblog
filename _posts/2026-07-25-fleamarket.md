@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "flea markets"
-date: 2026-07-25
+date: 2026-07-26
 description: "icappy goes to the flea market"
 ---
 
