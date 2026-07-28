@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "event hosting"
-date: 2026-07-26
+date: 2026-07-27
 description: "icappy wants to host a public event"
 ---
 
