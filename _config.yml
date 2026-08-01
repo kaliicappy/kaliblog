@@ -9,4 +9,4 @@ plugins:
 header_pages:
   - about.md
   - inbetween.html
-  - friendsblogs.md
+  - friendblogs.md
