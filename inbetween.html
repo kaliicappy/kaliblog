@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /inbetween/
+permalink: /black/
 title: "|"
 ---
 <!DOCTYPE html>
@@ -17,6 +17,7 @@ title: "|"
       display: flex;
       align-items: center;
       justify-content: center;
+      overflow: hidden;
     }
     img {
       max-width: 100%;
@@ -24,7 +25,8 @@ title: "|"
     }
   </style>
 </head>
-<body>
+<body onclick="document.querySelector('audio').play()">
   <img src="/assets/images/tree.gif" alt="">
+  <audio autoplay loop src="/assets/audio/inbetween.mp3"></audio>
 </body>
 </html>
