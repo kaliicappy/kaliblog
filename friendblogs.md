@@ -1,6 +1,6 @@
 ---
 layout: page
-title: friend's blogs
+title: friends
 permalink: /friends/
 ---
 
