@@ -1,12 +1,9 @@
 title: kaliibloggy
 description: "a blog project i'll try to keep going"
-remote_theme: jekyll/minima
+theme: minima
 markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
-minima:
-  skin: solarized-light
 header_pages:
   - about.md
   - inbetween.html
