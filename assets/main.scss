@@ -12,3 +12,14 @@ $link-visited-color: #b3a3c4;
 .rss-subscribe {
   display: none;
 }
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.legend-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+}
