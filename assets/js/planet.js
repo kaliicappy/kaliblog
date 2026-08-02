@@ -96,27 +96,6 @@ function draw(planets, positions) {
     ctx.arc(px, py, 1.5, 0, Math.PI * 2);
     ctx.fill();
   }
- 
-  // Labels
-  ctx.font = '9px Monospace';
-  for (const pos of positions) {
-    const px = cx + pos.x * scale;
-    const py = cy - pos.y * scale;
-    if (px < 0 || px > size || py < 0 || py > size) continue;
-    const col = PLANET_COLORS[pos.id] || '#ffffff';
-    ctx.fillStyle = col;
- 
-    const offset = 4; 
-    const textW = ctx.measureText(pos.name).width;
- 
-    const toRight = pos.x >= 0;
-    const above   = pos.y >= 0; 
- 
-    const lx = toRight ? px + offset : px - offset - textW;
-    const ly = above   ? py - offset : py + offset + 9;
- 
-    ctx.fillText(pos.name, lx, ly);
-  }
   
   // Sun
   ctx.beginPath();
