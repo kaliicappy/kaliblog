@@ -1,10 +1,13 @@
 title: kaliibloggy
 description: "a blog project i'll try to keep going"
-theme: cayman
+theme: minima
 markdown: kramdown
 
 plugins:
   - jekyll-feed
+
+minima:
+  skin: dark
 
 header_pages:
   - about.md
