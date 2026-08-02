@@ -7,7 +7,7 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: dark
+  skin: solarized-light
 
 header_pages:
   - about.md
