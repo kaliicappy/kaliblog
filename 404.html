@@ -1,32 +1,35 @@
 ---
 layout: null
 permalink: /404.html
+title: "404"
 ---
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
-  <title>page not found</title>
+  <title>.</title>
   <style>
     html, body {
       margin: 0;
       padding: 0;
       height: 100%;
       background-color: black;
-      color: white;
       display: flex;
+      flex-direction: column;
       align-items: center;
       justify-content: center;
-      font-family: sans-serif;
-      text-align: center;
+    }
+    img {
+      max-width: 100%;
+      max-height: 45vh;
     }
   </style>
 </head>
 <body>
-  <div>
-    <h1>404</h1>
-    <p>this page doesn't exist.</p>
-    <a href="/" style="color: #2a7ae2;">go home</a>
-  </div>
+  <img src="/assets/images/404.gif" alt="">
+  <a href="/">
+    <img src="/assets/images/dp-gifexport.gif" alt="return home">
+  </a>
+  <audio autoplay loop src="/assets/audio/404.mp3"></audio>
 </body>
 </html>
