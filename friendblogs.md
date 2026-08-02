@@ -20,11 +20,11 @@ a LOT smarter than me and writes a whole lot better! check it out!!
 
 their site has so much aura! W writer! many features i dont have! check it out!!
 
-# ben @ [condupee.blogspot.com](https://condupee.blogspot.com/)
+# [ben @ condupee.blogspot.com](https://condupee.blogspot.com/)
 
 id say im most interested and excited to see what his will entail... check it out!!
 
-# sam @ [switchyduck.xyz](https://switchyduck.xyz/)
+# [sam @ switchyduck.xyz](https://switchyduck.xyz/)
 
 a lot of aura with the html! check it out!!
 
