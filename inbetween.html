@@ -25,8 +25,32 @@ title: "|"
     }
   </style>
 </head>
-<body onclick="document.querySelector('audio').play()">
-  <img src="/assets/images/tree.gif" alt="">
-  <audio autoplay loop src="/assets/audio/inbetween.mp3"></audio>
+<body>
+  <img id="clickImage" src="/assets/images/tree.gif" alt="">
+  <audio id="player" autoplay loop src="/assets/audio/inbetween.mp3"></audio>
+
+  <script>
+    // Index 0 here corresponds to the "1" key, index 1 to "2", etc.
+    const scenes = [
+      { image: "/assets/images/tree.gif", song: "/assets/audio/inbetween.mp3" },
+      { image: "/assets/images/tree.gif", song: "/assets/audio/inbetween.mp3" },
+      { image: "/assets/images/tree2.gif", song: "/assets/audio/inbetween2.mp3" },
+      { image: "/assets/images/tree2.png", song: "/assets/audio/inbetween3.mp3" },
+      { image: "/assets/images/tree.gif", song: "/assets/audio/inbetween4.mp3" }
+    ];
+
+    const player = document.getElementById('player');
+    const image = document.getElementById('clickImage');
+
+    document.addEventListener('keydown', (e) => {
+      const num = parseInt(e.key, 10);
+      if (!isNaN(num) && num >= 1 && num <= scenes.length) {
+        const scene = scenes[num - 1];
+        player.src = scene.song;
+        player.play();
+        image.src = scene.image;
+      }
+    });
+  </script>
 </body>
 </html>
