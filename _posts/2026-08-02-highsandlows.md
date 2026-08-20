@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "highs and lows"
-date: 2026-07-29
+date: 2026-08-02
 description: "icappy reflects on the highs and lows in life"
 ---
 
