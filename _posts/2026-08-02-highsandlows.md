@@ -37,7 +37,7 @@ my future's so bright, i gotta wear shades.
 
 look up yourself, too. 
 
-heres this post's song, Psychoboost by Jane Remover and Danny Brown.
+heres this post's song, Down by 311.
 
 <p style="text-align: center;" markdown="0">
 
