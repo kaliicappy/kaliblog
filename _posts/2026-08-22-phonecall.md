@@ -23,7 +23,7 @@ i just got off a 4 hour and 15 minute *video* call with my friend helene! hi hel
 
 <p style="text-align: center;" markdown="1">
 
-![they might be giants, puppets](/assets/images/IMG_1219.png)
+![they might be giants, puppets](/assets/images/phonecall-littleicappy.png)
 
 </p>
 
