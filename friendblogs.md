@@ -12,6 +12,10 @@ permalink: /friends/
 
 </p>
 
+# [helene @ tumblr.com/upside-down-atlas](https://www.tumblr.com/upside-down-atlas)
+
+hi hi hi hi hi hi
+
 # [alex @ alex-cao.com](https://alex-cao.com/)
 
 a LOT smarter than me and writes a whole lot better! check it out!!
