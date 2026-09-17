@@ -14,7 +14,7 @@ permalink: /friends/
 
 # [helene @ tumblr.com/upside-down-atlas](https://www.tumblr.com/upside-down-atlas)
 
-hi hi hi hi hi hi
+hi - i love you
 
 # [alex @ alex-cao.com](https://alex-cao.com/)
 
