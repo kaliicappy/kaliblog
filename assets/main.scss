@@ -23,3 +23,50 @@ $link-visited-color: #b3a3c4;
   height: 5px;
   border-radius: 50%;
 }
+
+.side-panels {
+  position: absolute;
+  top: 100px;
+  left: calc(50% + 400px + 20px);
+  width: 260px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.side-box {
+  border: 1px solid $brand-color;
+  border-radius: 4px;
+  padding: 12px 14px;
+  font-size: 14px;
+
+  h3 {
+    margin: 0 0 10px;
+    font-size: 13px;
+    letter-spacing: 1px;
+  }
+
+  p {
+    margin: 0;
+  }
+}
+
+.microblog-box .entries {
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+.microblog-entry {
+  margin-bottom: 12px;
+}
+
+/* on narrower screens, stack the boxes under the content instead */
+@media screen and (max-width: 1400px) {
+  .side-panels {
+    position: static;
+    width: auto;
+    max-width: 740px;
+    margin: 0 auto 30px;
+    padding: 0 30px;
+  }
+}
