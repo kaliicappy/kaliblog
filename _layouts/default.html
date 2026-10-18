@@ -16,6 +16,25 @@
       </div>
     </main>
 
+    <aside class="side-panels">
+      <div class="side-box microblog-box">
+        <h3>microblog</h3>
+        <div class="entries">
+          {% for entry in site.data.microblog %}
+            <div class="microblog-entry">
+              <span class="post-meta">{{ entry.date | date: "%b %-d, %Y" }}</span>
+              {{ entry.text | markdownify }}
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="side-box other-box">
+        <h3>other</h3>
+        <p>put whatever you want in here!</p>
+      </div>
+    </aside>
+    
     {%- include footer.html -%}
 
     <script src="https://tilde.club/~april/planet/data.js"></script>
