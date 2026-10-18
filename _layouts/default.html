@@ -28,12 +28,18 @@
           {% endfor %}
         </div>
       </div>
-
+      
       <div class="side-box other-box">
         <h3>other</h3>
-        <p>put whatever you want in here!</p>
+        <div class="entries">
+          {% for entry in site.data.other %}
+            <div class="microblog-entry">
+              <span class="post-meta">{{ entry.date | date: "%b %-d, %Y" }}</span>
+              {{ entry.text | markdownify }}
+            </div>
+          {% endfor %}
+        </div>
       </div>
-    </aside>
     
     {%- include footer.html -%}
 
