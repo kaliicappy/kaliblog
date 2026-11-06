@@ -57,6 +57,8 @@ i cannot see my life being better
 
 i have options
 
+bummer
+
 heres this post's song, 7 Days Til Sunday by TV Girl.
 
 <p style="text-align: center;" markdown="0">
