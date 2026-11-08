@@ -2,7 +2,7 @@
 layout: post
 title: "the seventeenth pole"
 date: 2026-11-08
-description: "icappys birthday"
+description: "icappys birthday - suicide warning"
 ---
 
 # the seventeenth pole is still obscured 
