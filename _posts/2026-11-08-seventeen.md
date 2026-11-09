@@ -7,7 +7,7 @@ description: "icappys birthday - suicide warning"
 
 # the seventeenth pole is still obscured 
 
-i feel like a retard alluding to it like that.
+good morning, i feel like a retard alluding to it like that.
 
 its my birthday today and i dont feel any older, i dont feel any better, i only feel worse
 
