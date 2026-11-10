@@ -11,4 +11,4 @@ ive thought about a heart-rate monitor like that on [swimming.fish](https://swim
 
 suggestions? message me somewhere!
 
-[read the blog →](/blog/)
+# [read the blog →](/blog/)
