@@ -16,6 +16,9 @@
       </div>
     </main>
 
+    {% if page.layout == "home" or page.layout == "post" %}
+    <aside class="side-panels">
+    
     <aside class="side-panels">
       <div class="side-box microblog-box">
         <h3>microblog</h3>
@@ -41,6 +44,9 @@
         </div>
       </div>
     </aside>
+
+    </aside>
+    {% endif %}
     
     {%- include footer.html -%}
 
